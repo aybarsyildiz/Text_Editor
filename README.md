@@ -5,5 +5,4 @@ Go into bin/Debug and find Text_Editor.exe to run.
 
 It has some problems with changing font style.
 
-
-<img src="https://i.hizliresim.com/26zLGN.jpg">
+[![image](https://i.hizliresim.com/26zLGN.jpg)](https://hizliresim.com/26zLGN)
